@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', 'HelveticaUltraLt_0', sans-serif;
+  font-family: 'Darker Grotesque', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Zen Maru Gothic', sans-serif;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'HelveticaUltraLt_0';
+  src: local('HelveticaUltraLt_0'), url(../src/fonts/HelveticaUltraLt_0.ttf) format('truetype');
+}
