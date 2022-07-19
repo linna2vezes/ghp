@@ -4,6 +4,7 @@
 
 - [Create react app](https://create-react-app.dev/)
 - [React Router](https://reactrouter.com/)
+- [Chacka UI](https://chakra-ui.com/)
 
 ## Rodando a aplicação
 
